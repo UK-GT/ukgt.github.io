@@ -1,12 +1,12 @@
-baseURL = "https://example.com"
-title = "Hugo Bootstrap"
+baseURL = "http://UK-GT.github.io"
+title = "UKGT"
 theme = "hugo-theme-bootstrap"
-copyright = "Copyright © 2016-{year} Razon Yang. All Rights Reserved."
+#copyright = "Copyright © 2016-{year} Razon Yang. All Rights Reserved."
 
 # Multilingual mode
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh-tw"
 defaultContentLanguageInSubdir = true # If you use only one language comment this option
-#disableLanguages = ["fr", "zh-cn" ,"zh-tw"] # For disable one or more language
+disableLanguages = ["fr", "zh-cn" ,"en"] # For disable one or more language
 
 # Pagination
 paginate = 5
@@ -22,7 +22,7 @@ enableRobotsTXT = true
 
 enableEmoji = true
 
-# hasCJKLanguage = true # Turn on it if your content contains Chinese/Japanese/Korean Languages.
+ hasCJKLanguage = true # Turn on it if your content contains Chinese/Japanese/Korean Languages.
 
 pygmentsUseClasses = true
 
@@ -36,3 +36,30 @@ pygmentsUseClasses = true
   category = "categories"
   series = "series"
   tag = "tags"
+
+  [privacy.disqus]
+  disable = false
+
+  [privacy.googleAnalytics]
+  anonymizeIP = false
+  disable = false
+  respectDoNotTrack = false
+  useSessionStorage = false
+
+  [privacy.instagram]
+  disable = false
+  simple = false
+
+  [privacy.twitter]
+  disable = false
+  enableDNT = false
+  simple = false
+
+  [privacy.vimeo]
+  disable = false
+  enableDNT = false
+  simple = false
+
+  [privacy.youtube]
+  disable = false
+  privacyEnhanced = false

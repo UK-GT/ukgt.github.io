@@ -1,8 +1,8 @@
-name = "Razon Yang"
-# avatar = "images/profile.png" # Avatar image. Default to "images/profile.webp".
-bio = "Gopher, PHPer, Full Stack Engineer."
-company = "Null"
-location = "Earth"
+name = "烏克麗麗、吉他彈唱交流社群"
+avatar = "images/IMG_5041.JPG" # 右上Avatar image. Default to "images/profile.webp".
+bio = "烏克麗麗、吉他、鍵盤、各式樂器、彈唱、創作....."
+#company = "烏克麗麗、吉他彈唱交流社群"
+location = "地球"
 # about = "https://domain.tld" # The external about page. The internal about page will be used if not set.
 
 [params]
