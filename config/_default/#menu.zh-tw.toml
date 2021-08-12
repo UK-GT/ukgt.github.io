@@ -1,5 +1,5 @@
 [[main]]
-  name = "下拉菜单"
+  name = "下拉選單"
   identifier = "dropdown"
   pre = '<i class="fas fa-fw fa-chevron-circle-down"></i>'
 [[main]]

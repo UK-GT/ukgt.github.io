@@ -1,14 +1,14 @@
-baseURL = "http://UK-GT.github.io"
+baseURL = "ukgt.github.io"
 title = "UKGT"
 theme = "hugo-theme-bootstrap"
 #copyright = "Copyright © 2016-{year} Razon Yang. All Rights Reserved."
 
 # Multilingual mode
 defaultContentLanguage = "zh-tw"
-defaultContentLanguageInSubdir = true # If you use only one language comment this option
+#defaultContentLanguageInSubdir = true # If you use only one language comment this option
 disableLanguages = ["fr", "zh-cn" ,"en"] # For disable one or more language
 
-# Pagination
+# Pagination 分頁
 paginate = 5
 # paginatePath = "page"
 
@@ -46,9 +46,9 @@ pygmentsUseClasses = true
   respectDoNotTrack = false
   useSessionStorage = false
 
-  [privacy.instagram]
-  disable = false
-  simple = false
+  #[privacy.instagram]
+  #disable = false
+  #simple = false
 
   [privacy.twitter]
   disable = false
