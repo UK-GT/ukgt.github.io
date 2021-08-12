@@ -1,6 +1,6 @@
-baseURL = 'http://UK-GT.github.io'
+baseURL = 'http://ukgt.github.io'
 languageCode = 'zh-tw'
-title = 'zh-1111111烏克麗麗、吉他彈唱交流社群'
+title = '烏克麗麗、吉他彈唱交流社群'
 footnoteReturnLinkContents = '↩'
 
 [params]
