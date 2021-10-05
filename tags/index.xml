@@ -6,20 +6,11 @@
     <description>Recent content in 標籤 on 烏克萌</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 02 Oct 2021 21:35:57 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>創作</title>
-      <link>/tags/%E5%89%B5%E4%BD%9C/</link>
-      <pubDate>Sat, 02 Oct 2021 21:35:57 +0000</pubDate>
-      
-      <guid>/tags/%E5%89%B5%E4%BD%9C/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 05 Oct 2021 21:33:57 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>國語</title>
       <link>/tags/%E5%9C%8B%E8%AA%9E/</link>
-      <pubDate>Sat, 02 Oct 2021 21:35:57 +0000</pubDate>
+      <pubDate>Tue, 05 Oct 2021 21:33:57 +0000</pubDate>
       
       <guid>/tags/%E5%9C%8B%E8%AA%9E/</guid>
       <description></description>
@@ -28,9 +19,18 @@
     <item>
       <title>彈唱</title>
       <link>/tags/%E5%BD%88%E5%94%B1/</link>
-      <pubDate>Sat, 02 Oct 2021 21:35:57 +0000</pubDate>
+      <pubDate>Tue, 05 Oct 2021 21:33:57 +0000</pubDate>
       
       <guid>/tags/%E5%BD%88%E5%94%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>創作</title>
+      <link>/tags/%E5%89%B5%E4%BD%9C/</link>
+      <pubDate>Sat, 02 Oct 2021 21:35:57 +0000</pubDate>
+      
+      <guid>/tags/%E5%89%B5%E4%BD%9C/</guid>
       <description></description>
     </item>
     
