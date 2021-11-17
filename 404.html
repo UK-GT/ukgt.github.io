@@ -49,16 +49,22 @@
   <div class="container">
     <a class="navbar-brand" href="/">
       <img class="logo" alt="Logo" src="/images/favicons/android-chrome-512x512.png" loading="lazy">烏克萌</a>
+
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
+
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-1 mb-2 mb-lg-0"><form class="search-bar d-flex ms-1" action="/search">
   <div class="input-group input-group-sm">
     <button class="btn btn-search disabled position-absolute left-0" type="submit"><i class="fas fa-fw fa-search"></i></button>
     <input class="form-control rounded-pill" id="searchQuery" name="q" type="search" aria-label="Search">
   </div>
-</form></ul><ul class="navbar-nav me-1 mb-2 mb-lg-0 me-1 ms-auto"><li class="nav-item">
+</form></ul>
+      
+      <span id="busuanzi_container_site_uv">
+      　總瀏覽 <span id="busuanzi_value_site_uv"></span> 次
+      </span><ul class="navbar-nav me-1 mb-2 mb-lg-0 me-1 ms-auto"><li class="nav-item">
           <a class="nav-link" href="/archives/">
             <i class="fas fa-fw fa-file-archive"></i>歸檔
           </a>
@@ -173,11 +179,6 @@
 <div class="copyright mb-2">
   
 </div>
-
-  <span id="busuanzi_container_site_uv">
-  　總瀏覽 <span id="busuanzi_value_site_uv"></span> 次
-  </span>
-
 </footer>
 <a id="btnScrollToTop" class="btn-scroll-to-top">
   <i class="fas fa-fw fa-chevron-circle-up fa-2x"></i>
