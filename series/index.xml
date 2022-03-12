@@ -6,29 +6,20 @@
     <description>Recent content in 專輯 on 烏克萌</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 11 Mar 2022 21:55:57 +0000</lastBuildDate><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Mar 2022 22:15:57 +0000</lastBuildDate><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>浮游-彈烏克-新北</title>
-      <link>/series/%E6%B5%AE%E6%B8%B8-%E5%BD%88%E7%83%8F%E5%85%8B-%E6%96%B0%E5%8C%97/</link>
-      <pubDate>Fri, 11 Mar 2022 21:55:57 +0000</pubDate>
+      <title>阿山-烏克新手-台北</title>
+      <link>/series/%E9%98%BF%E5%B1%B1-%E7%83%8F%E5%85%8B%E6%96%B0%E6%89%8B-%E5%8F%B0%E5%8C%97/</link>
+      <pubDate>Fri, 11 Mar 2022 22:15:57 +0000</pubDate>
       
-      <guid>/series/%E6%B5%AE%E6%B8%B8-%E5%BD%88%E7%83%8F%E5%85%8B-%E6%96%B0%E5%8C%97/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Q摸-吉他新手-台中</title>
-      <link>/series/q%E6%91%B8-%E5%90%89%E4%BB%96%E6%96%B0%E6%89%8B-%E5%8F%B0%E4%B8%AD/</link>
-      <pubDate>Thu, 10 Mar 2022 16:31:57 +0000</pubDate>
-      
-      <guid>/series/q%E6%91%B8-%E5%90%89%E4%BB%96%E6%96%B0%E6%89%8B-%E5%8F%B0%E4%B8%AD/</guid>
+      <guid>/series/%E9%98%BF%E5%B1%B1-%E7%83%8F%E5%85%8B%E6%96%B0%E6%89%8B-%E5%8F%B0%E5%8C%97/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LeKa-烏克新手-高雄</title>
       <link>/series/leka-%E7%83%8F%E5%85%8B%E6%96%B0%E6%89%8B-%E9%AB%98%E9%9B%84/</link>
-      <pubDate>Wed, 09 Mar 2022 21:40:57 +0000</pubDate>
+      <pubDate>Fri, 11 Mar 2022 22:00:57 +0000</pubDate>
       
       <guid>/series/leka-%E7%83%8F%E5%85%8B%E6%96%B0%E6%89%8B-%E9%AB%98%E9%9B%84/</guid>
       <description></description>
@@ -37,16 +28,25 @@
     <item>
       <title>烏克萌</title>
       <link>/series/%E7%83%8F%E5%85%8B%E8%90%8C/</link>
-      <pubDate>Wed, 09 Mar 2022 21:40:57 +0000</pubDate>
+      <pubDate>Fri, 11 Mar 2022 22:00:57 +0000</pubDate>
       
       <guid>/series/%E7%83%8F%E5%85%8B%E8%90%8C/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>庭嘉／唱歌／屏東</title>
+      <link>/series/%E5%BA%AD%E5%98%89%E5%94%B1%E6%AD%8C%E5%B1%8F%E6%9D%B1/</link>
+      <pubDate>Fri, 11 Mar 2022 21:13:57 +0000</pubDate>
+      
+      <guid>/series/%E5%BA%AD%E5%98%89%E5%94%B1%E6%AD%8C%E5%B1%8F%E6%9D%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Berlin。吉他。雲林</title>
       <link>/series/berlin%E5%90%89%E4%BB%96%E9%9B%B2%E6%9E%97/</link>
-      <pubDate>Wed, 09 Mar 2022 15:01:57 +0000</pubDate>
+      <pubDate>Fri, 11 Mar 2022 13:35:57 +0000</pubDate>
       
       <guid>/series/berlin%E5%90%89%E4%BB%96%E9%9B%B2%E6%9E%97/</guid>
       <description></description>
@@ -55,18 +55,27 @@
     <item>
       <title>Summer 吉他 烏克 台北</title>
       <link>/series/summer-%E5%90%89%E4%BB%96-%E7%83%8F%E5%85%8B-%E5%8F%B0%E5%8C%97/</link>
-      <pubDate>Tue, 08 Mar 2022 21:00:50 +0000</pubDate>
+      <pubDate>Fri, 11 Mar 2022 13:35:57 +0000</pubDate>
       
       <guid>/series/summer-%E5%90%89%E4%BB%96-%E7%83%8F%E5%85%8B-%E5%8F%B0%E5%8C%97/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>阿山-烏克新手-台北</title>
-      <link>/series/%E9%98%BF%E5%B1%B1-%E7%83%8F%E5%85%8B%E6%96%B0%E6%89%8B-%E5%8F%B0%E5%8C%97/</link>
-      <pubDate>Mon, 07 Mar 2022 22:15:57 +0000</pubDate>
+      <title>Q摸-吉他新手-台中</title>
+      <link>/series/q%E6%91%B8-%E5%90%89%E4%BB%96%E6%96%B0%E6%89%8B-%E5%8F%B0%E4%B8%AD/</link>
+      <pubDate>Fri, 11 Mar 2022 12:21:57 +0000</pubDate>
       
-      <guid>/series/%E9%98%BF%E5%B1%B1-%E7%83%8F%E5%85%8B%E6%96%B0%E6%89%8B-%E5%8F%B0%E5%8C%97/</guid>
+      <guid>/series/q%E6%91%B8-%E5%90%89%E4%BB%96%E6%96%B0%E6%89%8B-%E5%8F%B0%E4%B8%AD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>浮游-彈烏克-新北</title>
+      <link>/series/%E6%B5%AE%E6%B8%B8-%E5%BD%88%E7%83%8F%E5%85%8B-%E6%96%B0%E5%8C%97/</link>
+      <pubDate>Fri, 11 Mar 2022 09:55:57 +0000</pubDate>
+      
+      <guid>/series/%E6%B5%AE%E6%B8%B8-%E5%BD%88%E7%83%8F%E5%85%8B-%E6%96%B0%E5%8C%97/</guid>
       <description></description>
     </item>
     
@@ -76,15 +85,6 @@
       <pubDate>Mon, 07 Mar 2022 21:05:57 +0000</pubDate>
       
       <guid>/series/%E5%AE%89%E8%BF%AA_%E9%9F%B3%E6%A8%82%E6%AC%A3%E8%B3%9E_%E5%8F%B0%E4%B8%AD/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>庭嘉／唱歌／屏東</title>
-      <link>/series/%E5%BA%AD%E5%98%89%E5%94%B1%E6%AD%8C%E5%B1%8F%E6%9D%B1/</link>
-      <pubDate>Sat, 05 Mar 2022 22:13:57 +0000</pubDate>
-      
-      <guid>/series/%E5%BA%AD%E5%98%89%E5%94%B1%E6%AD%8C%E5%B1%8F%E6%9D%B1/</guid>
       <description></description>
     </item>
     
