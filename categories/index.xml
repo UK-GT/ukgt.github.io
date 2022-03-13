@@ -6,22 +6,31 @@
     <description>Recent content in 分類 on 烏克萌</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 12 Mar 2022 21:55:57 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Mar 2022 07:37:57 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>烏克麗麗</title>
-      <link>/categories/%E7%83%8F%E5%85%8B%E9%BA%97%E9%BA%97/</link>
-      <pubDate>Sat, 12 Mar 2022 21:55:57 +0000</pubDate>
+      <title>吉他</title>
+      <link>/categories/%E5%90%89%E4%BB%96/</link>
+      <pubDate>Sun, 13 Mar 2022 07:37:57 +0000</pubDate>
       
-      <guid>/categories/%E7%83%8F%E5%85%8B%E9%BA%97%E9%BA%97/</guid>
+      <guid>/categories/%E5%90%89%E4%BB%96/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>吉他</title>
-      <link>/categories/%E5%90%89%E4%BB%96/</link>
-      <pubDate>Sat, 12 Mar 2022 13:15:57 +0000</pubDate>
+      <title>教學-Tutorial</title>
+      <link>/categories/%E6%95%99%E5%AD%B8-tutorial/</link>
+      <pubDate>Sat, 12 Mar 2022 22:33:57 +0000</pubDate>
       
-      <guid>/categories/%E5%90%89%E4%BB%96/</guid>
+      <guid>/categories/%E6%95%99%E5%AD%B8-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>烏克麗麗</title>
+      <link>/categories/%E7%83%8F%E5%85%8B%E9%BA%97%E9%BA%97/</link>
+      <pubDate>Sat, 12 Mar 2022 22:33:57 +0000</pubDate>
+      
+      <guid>/categories/%E7%83%8F%E5%85%8B%E9%BA%97%E9%BA%97/</guid>
       <description></description>
     </item>
     
@@ -49,15 +58,6 @@
       <pubDate>Sun, 05 Sep 2021 08:33:57 +0000</pubDate>
       
       <guid>/categories/%E5%85%AC%E5%91%8A/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>教學-Tutorial</title>
-      <link>/categories/%E6%95%99%E5%AD%B8-tutorial/</link>
-      <pubDate>Thu, 26 Aug 2021 08:33:57 +0000</pubDate>
-      
-      <guid>/categories/%E6%95%99%E5%AD%B8-tutorial/</guid>
       <description></description>
     </item>
     
