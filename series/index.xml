@@ -6,20 +6,20 @@
     <description>Recent content in 專輯 on 烏克萌</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 07 Apr 2022 16:35:57 +0000</lastBuildDate><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Apr 2022 22:00:57 +0000</lastBuildDate><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Summer 吉他 烏克 台北</title>
-      <link>/series/summer-%E5%90%89%E4%BB%96-%E7%83%8F%E5%85%8B-%E5%8F%B0%E5%8C%97/</link>
-      <pubDate>Thu, 07 Apr 2022 16:35:57 +0000</pubDate>
+      <title>羽毛-吉他-彈唱-高雄</title>
+      <link>/series/%E7%BE%BD%E6%AF%9B-%E5%90%89%E4%BB%96-%E5%BD%88%E5%94%B1-%E9%AB%98%E9%9B%84/</link>
+      <pubDate>Thu, 07 Apr 2022 22:00:57 +0000</pubDate>
       
-      <guid>/series/summer-%E5%90%89%E4%BB%96-%E7%83%8F%E5%85%8B-%E5%8F%B0%E5%8C%97/</guid>
+      <guid>/series/%E7%BE%BD%E6%AF%9B-%E5%90%89%E4%BB%96-%E5%BD%88%E5%94%B1-%E9%AB%98%E9%9B%84/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LeKa-烏克新手-高雄</title>
       <link>/series/leka-%E7%83%8F%E5%85%8B%E6%96%B0%E6%89%8B-%E9%AB%98%E9%9B%84/</link>
-      <pubDate>Thu, 07 Apr 2022 08:53:57 +0000</pubDate>
+      <pubDate>Thu, 07 Apr 2022 20:53:57 +0000</pubDate>
       
       <guid>/series/leka-%E7%83%8F%E5%85%8B%E6%96%B0%E6%89%8B-%E9%AB%98%E9%9B%84/</guid>
       <description></description>
@@ -28,9 +28,18 @@
     <item>
       <title>烏克萌</title>
       <link>/series/%E7%83%8F%E5%85%8B%E8%90%8C/</link>
-      <pubDate>Thu, 07 Apr 2022 08:53:57 +0000</pubDate>
+      <pubDate>Thu, 07 Apr 2022 20:53:57 +0000</pubDate>
       
       <guid>/series/%E7%83%8F%E5%85%8B%E8%90%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Summer 吉他 烏克 台北</title>
+      <link>/series/summer-%E5%90%89%E4%BB%96-%E7%83%8F%E5%85%8B-%E5%8F%B0%E5%8C%97/</link>
+      <pubDate>Thu, 07 Apr 2022 16:35:57 +0000</pubDate>
+      
+      <guid>/series/summer-%E5%90%89%E4%BB%96-%E7%83%8F%E5%85%8B-%E5%8F%B0%E5%8C%97/</guid>
       <description></description>
     </item>
     
