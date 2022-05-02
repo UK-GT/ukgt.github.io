@@ -6,22 +6,85 @@
     <description>Recent content in 專輯 on 烏克萌</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 29 Apr 2022 11:45:57 +0000</lastBuildDate><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 May 2022 22:26:57 +0000</lastBuildDate><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Q摸-吉他新手-台中</title>
-      <link>/series/q%E6%91%B8-%E5%90%89%E4%BB%96%E6%96%B0%E6%89%8B-%E5%8F%B0%E4%B8%AD/</link>
-      <pubDate>Fri, 29 Apr 2022 11:45:57 +0000</pubDate>
+      <title>阿山-烏克新手-台北</title>
+      <link>/series/%E9%98%BF%E5%B1%B1-%E7%83%8F%E5%85%8B%E6%96%B0%E6%89%8B-%E5%8F%B0%E5%8C%97/</link>
+      <pubDate>Sun, 01 May 2022 22:26:57 +0000</pubDate>
       
-      <guid>/series/q%E6%91%B8-%E5%90%89%E4%BB%96%E6%96%B0%E6%89%8B-%E5%8F%B0%E4%B8%AD/</guid>
+      <guid>/series/%E9%98%BF%E5%B1%B1-%E7%83%8F%E5%85%8B%E6%96%B0%E6%89%8B-%E5%8F%B0%E5%8C%97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>羽毛-吉他-彈唱-高雄</title>
+      <link>/series/%E7%BE%BD%E6%AF%9B-%E5%90%89%E4%BB%96-%E5%BD%88%E5%94%B1-%E9%AB%98%E9%9B%84/</link>
+      <pubDate>Sun, 01 May 2022 20:40:57 +0000</pubDate>
+      
+      <guid>/series/%E7%BE%BD%E6%AF%9B-%E5%90%89%E4%BB%96-%E5%BD%88%E5%94%B1-%E9%AB%98%E9%9B%84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>安迪_音樂欣賞_台中</title>
+      <link>/series/%E5%AE%89%E8%BF%AA_%E9%9F%B3%E6%A8%82%E6%AC%A3%E8%B3%9E_%E5%8F%B0%E4%B8%AD/</link>
+      <pubDate>Sun, 01 May 2022 14:30:57 +0000</pubDate>
+      
+      <guid>/series/%E5%AE%89%E8%BF%AA_%E9%9F%B3%E6%A8%82%E6%AC%A3%E8%B3%9E_%E5%8F%B0%E4%B8%AD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>烏克萌</title>
+      <link>/series/%E7%83%8F%E5%85%8B%E8%90%8C/</link>
+      <pubDate>Sun, 01 May 2022 14:30:57 +0000</pubDate>
+      
+      <guid>/series/%E7%83%8F%E5%85%8B%E8%90%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>小美_UK長笛_新竹</title>
+      <link>/series/%E5%B0%8F%E7%BE%8E_uk%E9%95%B7%E7%AC%9B_%E6%96%B0%E7%AB%B9/</link>
+      <pubDate>Sun, 01 May 2022 12:51:57 +0000</pubDate>
+      
+      <guid>/series/%E5%B0%8F%E7%BE%8E_uk%E9%95%B7%E7%AC%9B_%E6%96%B0%E7%AB%B9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>funfun-烏克-新竹</title>
+      <link>/series/funfun-%E7%83%8F%E5%85%8B-%E6%96%B0%E7%AB%B9/</link>
+      <pubDate>Sat, 30 Apr 2022 18:15:57 +0000</pubDate>
+      
+      <guid>/series/funfun-%E7%83%8F%E5%85%8B-%E6%96%B0%E7%AB%B9/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Berlin。吉他。雲林</title>
       <link>/series/berlin%E5%90%89%E4%BB%96%E9%9B%B2%E6%9E%97/</link>
-      <pubDate>Fri, 29 Apr 2022 09:47:00 +0000</pubDate>
+      <pubDate>Sat, 30 Apr 2022 13:00:57 +0000</pubDate>
       
       <guid>/series/berlin%E5%90%89%E4%BB%96%E9%9B%B2%E6%9E%97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Summer 吉他 烏克 台北</title>
+      <link>/series/summer-%E5%90%89%E4%BB%96-%E7%83%8F%E5%85%8B-%E5%8F%B0%E5%8C%97/</link>
+      <pubDate>Sat, 30 Apr 2022 13:00:57 +0000</pubDate>
+      
+      <guid>/series/summer-%E5%90%89%E4%BB%96-%E7%83%8F%E5%85%8B-%E5%8F%B0%E5%8C%97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Q摸-吉他新手-台中</title>
+      <link>/series/q%E6%91%B8-%E5%90%89%E4%BB%96%E6%96%B0%E6%89%8B-%E5%8F%B0%E4%B8%AD/</link>
+      <pubDate>Fri, 29 Apr 2022 11:45:57 +0000</pubDate>
+      
+      <guid>/series/q%E6%91%B8-%E5%90%89%E4%BB%96%E6%96%B0%E6%89%8B-%E5%8F%B0%E4%B8%AD/</guid>
       <description></description>
     </item>
     
@@ -40,24 +103,6 @@
       <pubDate>Thu, 28 Apr 2022 12:00:57 +0000</pubDate>
       
       <guid>/series/leka-%E7%83%8F%E5%85%8B%E6%96%B0%E6%89%8B-%E9%AB%98%E9%9B%84/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Summer 吉他 烏克 台北</title>
-      <link>/series/summer-%E5%90%89%E4%BB%96-%E7%83%8F%E5%85%8B-%E5%8F%B0%E5%8C%97/</link>
-      <pubDate>Thu, 28 Apr 2022 12:00:57 +0000</pubDate>
-      
-      <guid>/series/summer-%E5%90%89%E4%BB%96-%E7%83%8F%E5%85%8B-%E5%8F%B0%E5%8C%97/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>烏克萌</title>
-      <link>/series/%E7%83%8F%E5%85%8B%E8%90%8C/</link>
-      <pubDate>Thu, 28 Apr 2022 12:00:57 +0000</pubDate>
-      
-      <guid>/series/%E7%83%8F%E5%85%8B%E8%90%8C/</guid>
       <description></description>
     </item>
     
@@ -85,15 +130,6 @@
       <pubDate>Sat, 23 Apr 2022 21:37:57 +0000</pubDate>
       
       <guid>/series/edison-%E5%90%89%E4%BB%96-%E9%AB%98%E9%9B%84/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>安迪_音樂欣賞_台中</title>
-      <link>/series/%E5%AE%89%E8%BF%AA_%E9%9F%B3%E6%A8%82%E6%AC%A3%E8%B3%9E_%E5%8F%B0%E4%B8%AD/</link>
-      <pubDate>Sat, 23 Apr 2022 11:37:57 +0000</pubDate>
-      
-      <guid>/series/%E5%AE%89%E8%BF%AA_%E9%9F%B3%E6%A8%82%E6%AC%A3%E8%B3%9E_%E5%8F%B0%E4%B8%AD/</guid>
       <description></description>
     </item>
     
@@ -170,15 +206,6 @@
     </item>
     
     <item>
-      <title>羽毛-吉他-彈唱-高雄</title>
-      <link>/series/%E7%BE%BD%E6%AF%9B-%E5%90%89%E4%BB%96-%E5%BD%88%E5%94%B1-%E9%AB%98%E9%9B%84/</link>
-      <pubDate>Wed, 13 Apr 2022 16:00:57 +0000</pubDate>
-      
-      <guid>/series/%E7%BE%BD%E6%AF%9B-%E5%90%89%E4%BB%96-%E5%BD%88%E5%94%B1-%E9%AB%98%E9%9B%84/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>小媺寶-唱歌-桃園</title>
       <link>/series/%E5%B0%8F%E5%AA%BA%E5%AF%B6-%E5%94%B1%E6%AD%8C-%E6%A1%83%E5%9C%92/</link>
       <pubDate>Tue, 12 Apr 2022 11:28:57 +0000</pubDate>
@@ -202,15 +229,6 @@
       <pubDate>Sat, 02 Apr 2022 17:17:57 +0000</pubDate>
       
       <guid>/series/%E9%98%BF%E8%9C%A5-uku-%E5%8D%97%E6%8A%95/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>阿山-烏克新手-台北</title>
-      <link>/series/%E9%98%BF%E5%B1%B1-%E7%83%8F%E5%85%8B%E6%96%B0%E6%89%8B-%E5%8F%B0%E5%8C%97/</link>
-      <pubDate>Fri, 01 Apr 2022 22:04:57 +0000</pubDate>
-      
-      <guid>/series/%E9%98%BF%E5%B1%B1-%E7%83%8F%E5%85%8B%E6%96%B0%E6%89%8B-%E5%8F%B0%E5%8C%97/</guid>
       <description></description>
     </item>
     
@@ -251,15 +269,6 @@
     </item>
     
     <item>
-      <title>小美_UK長笛_新竹</title>
-      <link>/series/%E5%B0%8F%E7%BE%8E_uk%E9%95%B7%E7%AC%9B_%E6%96%B0%E7%AB%B9/</link>
-      <pubDate>Wed, 02 Mar 2022 23:51:57 +0000</pubDate>
-      
-      <guid>/series/%E5%B0%8F%E7%BE%8E_uk%E9%95%B7%E7%AC%9B_%E6%96%B0%E7%AB%B9/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>子敬_烏吉ㄟ彈唱_桃園</title>
       <link>/series/%E5%AD%90%E6%95%AC_%E7%83%8F%E5%90%89%E3%84%9F%E5%BD%88%E5%94%B1_%E6%A1%83%E5%9C%92/</link>
       <pubDate>Wed, 02 Mar 2022 22:15:57 +0000</pubDate>
@@ -283,15 +292,6 @@
       <pubDate>Thu, 03 Feb 2022 14:15:57 +0000</pubDate>
       
       <guid>/series/wan-%E9%BA%97%E9%BA%97%E5%BD%88%E5%94%B1-%E5%8F%B0%E4%B8%AD/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>funfun-烏克-新竹</title>
-      <link>/series/funfun-%E7%83%8F%E5%85%8B-%E6%96%B0%E7%AB%B9/</link>
-      <pubDate>Sat, 29 Jan 2022 23:15:57 +0000</pubDate>
-      
-      <guid>/series/funfun-%E7%83%8F%E5%85%8B-%E6%96%B0%E7%AB%B9/</guid>
       <description></description>
     </item>
     
