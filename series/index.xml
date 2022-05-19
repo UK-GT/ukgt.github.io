@@ -6,22 +6,31 @@
     <description>Recent content in 專輯 on 烏克萌</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 18 May 2022 21:30:57 +0000</lastBuildDate><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 May 2022 18:33:57 +0000</lastBuildDate><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>安迪_音樂欣賞_台中</title>
-      <link>/series/%E5%AE%89%E8%BF%AA_%E9%9F%B3%E6%A8%82%E6%AC%A3%E8%B3%9E_%E5%8F%B0%E4%B8%AD/</link>
-      <pubDate>Wed, 18 May 2022 21:30:57 +0000</pubDate>
+      <title>Mavis-學烏克-屏東</title>
+      <link>/series/mavis-%E5%AD%B8%E7%83%8F%E5%85%8B-%E5%B1%8F%E6%9D%B1/</link>
+      <pubDate>Thu, 19 May 2022 18:33:57 +0000</pubDate>
       
-      <guid>/series/%E5%AE%89%E8%BF%AA_%E9%9F%B3%E6%A8%82%E6%AC%A3%E8%B3%9E_%E5%8F%B0%E4%B8%AD/</guid>
+      <guid>/series/mavis-%E5%AD%B8%E7%83%8F%E5%85%8B-%E5%B1%8F%E6%9D%B1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>烏克萌</title>
       <link>/series/%E7%83%8F%E5%85%8B%E8%90%8C/</link>
-      <pubDate>Wed, 18 May 2022 21:30:57 +0000</pubDate>
+      <pubDate>Thu, 19 May 2022 18:33:57 +0000</pubDate>
       
       <guid>/series/%E7%83%8F%E5%85%8B%E8%90%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>安迪_音樂欣賞_台中</title>
+      <link>/series/%E5%AE%89%E8%BF%AA_%E9%9F%B3%E6%A8%82%E6%AC%A3%E8%B3%9E_%E5%8F%B0%E4%B8%AD/</link>
+      <pubDate>Wed, 18 May 2022 21:30:57 +0000</pubDate>
+      
+      <guid>/series/%E5%AE%89%E8%BF%AA_%E9%9F%B3%E6%A8%82%E6%AC%A3%E8%B3%9E_%E5%8F%B0%E4%B8%AD/</guid>
       <description></description>
     </item>
     
@@ -157,15 +166,6 @@
       <pubDate>Fri, 06 May 2022 12:00:00 +0000</pubDate>
       
       <guid>/series/q%E6%91%B8-%E5%90%89%E7%83%8F%E6%96%B0%E6%89%8B-%E5%8F%B0%E4%B8%AD/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mavis-學烏克-屏東</title>
-      <link>/series/mavis-%E5%AD%B8%E7%83%8F%E5%85%8B-%E5%B1%8F%E6%9D%B1/</link>
-      <pubDate>Thu, 05 May 2022 21:33:57 +0000</pubDate>
-      
-      <guid>/series/mavis-%E5%AD%B8%E7%83%8F%E5%85%8B-%E5%B1%8F%E6%9D%B1/</guid>
       <description></description>
     </item>
     
