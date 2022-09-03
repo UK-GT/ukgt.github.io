@@ -6,31 +6,40 @@
     <description>Recent content in 標籤 on 烏克萌</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 02 Sep 2022 20:30:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Sep 2022 15:32:57 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>指彈</title>
-      <link>/tags/%E6%8C%87%E5%BD%88/</link>
-      <pubDate>Fri, 02 Sep 2022 20:30:00 +0000</pubDate>
+      <title>台語</title>
+      <link>/tags/%E5%8F%B0%E8%AA%9E/</link>
+      <pubDate>Sat, 03 Sep 2022 15:32:57 +0000</pubDate>
       
-      <guid>/tags/%E6%8C%87%E5%BD%88/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>國語</title>
-      <link>/tags/%E5%9C%8B%E8%AA%9E/</link>
-      <pubDate>Thu, 01 Sep 2022 22:25:57 +0000</pubDate>
-      
-      <guid>/tags/%E5%9C%8B%E8%AA%9E/</guid>
+      <guid>/tags/%E5%8F%B0%E8%AA%9E/</guid>
       <description></description>
     </item>
     
     <item>
       <title>彈唱</title>
       <link>/tags/%E5%BD%88%E5%94%B1/</link>
-      <pubDate>Thu, 01 Sep 2022 22:25:57 +0000</pubDate>
+      <pubDate>Sat, 03 Sep 2022 15:32:57 +0000</pubDate>
       
       <guid>/tags/%E5%BD%88%E5%94%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>國語</title>
+      <link>/tags/%E5%9C%8B%E8%AA%9E/</link>
+      <pubDate>Sat, 03 Sep 2022 13:59:00 +0000</pubDate>
+      
+      <guid>/tags/%E5%9C%8B%E8%AA%9E/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>指彈</title>
+      <link>/tags/%E6%8C%87%E5%BD%88/</link>
+      <pubDate>Fri, 02 Sep 2022 20:30:00 +0000</pubDate>
+      
+      <guid>/tags/%E6%8C%87%E5%BD%88/</guid>
       <description></description>
     </item>
     
@@ -85,15 +94,6 @@
       <pubDate>Fri, 01 Jul 2022 11:33:57 +0000</pubDate>
       
       <guid>/tags/%E6%B3%B0%E8%AA%9E/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>台語</title>
-      <link>/tags/%E5%8F%B0%E8%AA%9E/</link>
-      <pubDate>Thu, 09 Jun 2022 21:15:57 +0000</pubDate>
-      
-      <guid>/tags/%E5%8F%B0%E8%AA%9E/</guid>
       <description></description>
     </item>
     
