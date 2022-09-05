@@ -6,11 +6,11 @@
     <description>Recent content in 標籤 on 烏克萌</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 03 Sep 2022 20:55:57 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Sep 2022 23:56:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>國語</title>
       <link>/tags/%E5%9C%8B%E8%AA%9E/</link>
-      <pubDate>Sat, 03 Sep 2022 20:55:57 +0000</pubDate>
+      <pubDate>Mon, 05 Sep 2022 23:56:00 +0000</pubDate>
       
       <guid>/tags/%E5%9C%8B%E8%AA%9E/</guid>
       <description></description>
@@ -19,9 +19,27 @@
     <item>
       <title>彈唱</title>
       <link>/tags/%E5%BD%88%E5%94%B1/</link>
-      <pubDate>Sat, 03 Sep 2022 20:55:57 +0000</pubDate>
+      <pubDate>Mon, 05 Sep 2022 23:56:00 +0000</pubDate>
       
       <guid>/tags/%E5%BD%88%E5%94%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>指彈</title>
+      <link>/tags/%E6%8C%87%E5%BD%88/</link>
+      <pubDate>Mon, 05 Sep 2022 21:56:00 +0000</pubDate>
+      
+      <guid>/tags/%E6%8C%87%E5%BD%88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>韓語</title>
+      <link>/tags/%E9%9F%93%E8%AA%9E/</link>
+      <pubDate>Sun, 04 Sep 2022 10:34:57 +0000</pubDate>
+      
+      <guid>/tags/%E9%9F%93%E8%AA%9E/</guid>
       <description></description>
     </item>
     
@@ -35,29 +53,11 @@
     </item>
     
     <item>
-      <title>指彈</title>
-      <link>/tags/%E6%8C%87%E5%BD%88/</link>
-      <pubDate>Fri, 02 Sep 2022 20:30:00 +0000</pubDate>
-      
-      <guid>/tags/%E6%8C%87%E5%BD%88/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>粵語</title>
       <link>/tags/%E7%B2%B5%E8%AA%9E/</link>
       <pubDate>Thu, 01 Sep 2022 11:05:57 +0000</pubDate>
       
       <guid>/tags/%E7%B2%B5%E8%AA%9E/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>韓語</title>
-      <link>/tags/%E9%9F%93%E8%AA%9E/</link>
-      <pubDate>Thu, 25 Aug 2022 19:50:57 +0000</pubDate>
-      
-      <guid>/tags/%E9%9F%93%E8%AA%9E/</guid>
       <description></description>
     </item>
     
