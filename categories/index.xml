@@ -6,7 +6,16 @@
     <description>Recent content in 分類 on 烏克萌</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 28 Sep 2022 10:43:57 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Sep 2022 13:09:57 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>vocal</title>
+      <link>/categories/vocal/</link>
+      <pubDate>Thu, 29 Sep 2022 13:09:57 +0000</pubDate>
+      
+      <guid>/categories/vocal/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>烏克麗麗</title>
       <link>/categories/%E7%83%8F%E5%85%8B%E9%BA%97%E9%BA%97/</link>
@@ -22,15 +31,6 @@
       <pubDate>Tue, 27 Sep 2022 13:09:57 +0000</pubDate>
       
       <guid>/categories/%E5%90%89%E4%BB%96/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vocal</title>
-      <link>/categories/vocal/</link>
-      <pubDate>Mon, 19 Sep 2022 11:21:57 +0000</pubDate>
-      
-      <guid>/categories/vocal/</guid>
       <description></description>
     </item>
     
