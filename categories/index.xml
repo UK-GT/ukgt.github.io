@@ -17,15 +17,6 @@
     </item>
     
     <item>
-      <title>合唱</title>
-      <link>/categories/%E5%90%88%E5%94%B1/</link>
-      <pubDate>Tue, 18 Oct 2022 21:05:57 +0000</pubDate>
-      
-      <guid>/categories/%E5%90%88%E5%94%B1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>吉他</title>
       <link>/categories/%E5%90%89%E4%BB%96/</link>
       <pubDate>Tue, 18 Oct 2022 21:05:57 +0000</pubDate>
@@ -40,6 +31,15 @@
       <pubDate>Tue, 04 Oct 2022 13:24:00 +0000</pubDate>
       
       <guid>/categories/%E5%90%88%E5%A5%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>合唱</title>
+      <link>/categories/%E5%90%88%E5%94%B1/</link>
+      <pubDate>Tue, 04 Oct 2022 13:24:00 +0000</pubDate>
+      
+      <guid>/categories/%E5%90%88%E5%94%B1/</guid>
       <description></description>
     </item>
     
